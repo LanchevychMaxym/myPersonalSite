@@ -1,0 +1,20 @@
+#mainPhoto
+{
+width: 30%;
+height: auto;
+}
+.AboutSection
+{
+    background-color: rgb(38, 37, 43);
+}
+.About
+{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    max-height: 500px;
+}
+.imgSet
+{
+    width: auto;
+  height: 400px;
+}
