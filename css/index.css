@@ -52,4 +52,20 @@ height: auto;
     background: #125688;
     color: white;
   }
-  
+  .portfolioImg
+  {
+    width: 400px !important;
+    height: 250px !important;
+  }
+  .plus
+  {
+    margin: 0 auto !important;
+  }
+  .portfolio-item-caption
+   {
+    background-color: rgba(187, 194, 194, 0.9) !important;
+  }
+  .close 
+  {
+    color: rgba(56, 59, 59, 0.9) !important;
+  }
